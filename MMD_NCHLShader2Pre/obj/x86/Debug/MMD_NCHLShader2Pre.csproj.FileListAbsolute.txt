@@ -1,0 +1,11 @@
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\bin\Debug\MMD_NCHLShader2Pre.exe
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\bin\Debug\MMD_NCHLShader2Pre.pdb
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\bin\Debug\PEPlugin.dll
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\bin\Debug\PMDEditorLib.dll
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\bin\Debug\SlimDX.dll
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\obj\x86\Debug\MMD_NCHLShader2Pre.csprojResolveAssemblyReference.cache
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\obj\x86\Debug\MMD_NCHLShader2Pre.Form1.resources
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\obj\x86\Debug\MMD_NCHLShader2Pre.Properties.Resources.resources
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\obj\x86\Debug\MMD_NCHLShader2Pre.csproj.GenerateResource.Cache
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\obj\x86\Debug\MMD_NCHLShader2Pre.exe
+C:\Users\Balthasar\Documents\GitHub\MMD_NCHLShader2Pre\MMD_NCHLShader2Pre\obj\x86\Debug\MMD_NCHLShader2Pre.pdb
